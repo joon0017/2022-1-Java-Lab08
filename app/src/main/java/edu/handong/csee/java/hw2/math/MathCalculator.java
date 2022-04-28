@@ -4,7 +4,6 @@ package edu.handong.csee.java.hw2.math;
 * Package with various mathematical methods
 */
 public class MathCalculator {
- 
     private String name;
 
     /**

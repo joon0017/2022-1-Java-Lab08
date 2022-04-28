@@ -13,7 +13,6 @@ public class MathDriver {
         MathDriver newdriver = new MathDriver();
         newdriver.run(args);
     }
-
     /**
      * execute script
      */ 
